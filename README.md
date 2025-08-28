@@ -6,7 +6,7 @@ Full stack web developer
 
 I have been working as a web developer for almost 6 years. First 2 years I have written only backend code in Nodejs and after that started transitioning to full stack and by learning React.
 
-Currently I am taking a shot with my own product, https://www.recomandplus.ro, which its purpose is to increase the number of new customers for local businesses in Romania.
+Currently I am builind my own product, https://www.recomandplus.ro, which its purpose is to increase the number of new customers for local businesses in Romania.
 
 * 🌍  I'm based in Romania, Piatra Neamt
 * ✉️  You can contact me at [nohai.ionut02@gmail.com](mailto:nohai.ionut02@gmail.com)
